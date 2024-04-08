@@ -1,0 +1,7 @@
+import{j as e}from"./jsx-runtime-DzgN-JE8.js";import{S as n}from"./SkillsSection-GTP-Vb6Z.js";import{S as l,a}from"./net-Ckpp_49a.js";import"./index-CO9pbFv1.js";import"./_commonjsHelpers-BosuxZz1.js";import"./BentoBox-BuirTcxa.js";import"./motion-mtdhVCTO.js";import"./SkillItem-yC8XkFbF.js";const t={sectionTitle:"LOREM",description:e.jsxs("div",{className:"text-left tracking-wide indent-4",children:[e.jsx("p",{children:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."}),e.jsx("p",{children:"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."})]}),skills:[{Icon:l,skillName:"Lorem1"},{Icon:a,skillName:"Lorem2"}]},x={title:"Codeng/Organisms/Skill Section",component:n,tags:["autodocs"]},i={args:{description:t.description,sectionTitle:t.sectionTitle,skills:t.skills}};var o,s,r;i.parameters={...i.parameters,docs:{...(o=i.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    description: mockSkills.description,
+    sectionTitle: mockSkills.sectionTitle,
+    skills: mockSkills.skills
+  }
+}`,...(r=(s=i.parameters)==null?void 0:s.docs)==null?void 0:r.source}}};const f=["Primary"];export{i as Primary,f as __namedExportsOrder,x as default};
